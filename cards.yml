@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Bank cards related local APIs "
+  contactDetails:
+    name: "Ali Fathy - Product Owner"
+    email: "alifathya@bank.com"
+  onCallSupport:
+    - 01234456
+    - 09876543

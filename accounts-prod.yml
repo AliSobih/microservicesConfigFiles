@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Bank accounts related prod APIs "
+  contactDetails:
+    name: "Ali Fathy - Product Owner"
+    email: "alifathya@bank.com"
+  onCallSupport:
+    - 01234456
+    - 09876543
